@@ -1,4 +1,4 @@
-a=['good','great','like','notgood','notdefected','notdirty']
+a=['good','great','like','notgood','notdefected','notdirty','great']
 neg=['not','no','dislike','dislike','defeact']
 negative=0
 positive=0
